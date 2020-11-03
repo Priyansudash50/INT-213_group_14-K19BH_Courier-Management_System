@@ -2,5 +2,5 @@
 
 # Main Window
 <p align='center'>
-  <img src='python1.jpeg'/>
+  <img src='Screenshot (674).png'/>
 </p>
